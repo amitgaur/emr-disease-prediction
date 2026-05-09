@@ -1,0 +1,6 @@
+# Streamlit app requirements
+streamlit
+plotly
+pyyaml
+graphviz
+networkx
